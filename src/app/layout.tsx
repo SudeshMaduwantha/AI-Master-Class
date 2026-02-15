@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Master Class",
-  description: "AI-Powered Student & Class Management System",
+  title: "DriveApp",
+  description: "Modern Google Drive Manager for Education",
 };
 
 export default function RootLayout({

@@ -1,4 +1,4 @@
-# AI Master Class 🎓
+# DriveApp 📂
 
 **AI Master Class** is a modern, AI-powered platform designed for educators to manage students, classes, and learning materials efficiently. It leverages **Google Drive** for data storage and **Google Gemini AI** for intelligent content generation.
 
